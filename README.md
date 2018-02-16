@@ -1,2 +1,2 @@
 # 2032 Mod
-Tags: Zombies - Open World - Survival
+Zombies - Open World - Survival
