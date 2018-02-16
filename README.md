@@ -1,2 +1,2 @@
 # 2032 Mod
-This mod is undergoing development
+Tags: Zombies - Open World - Survival
