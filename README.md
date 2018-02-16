@@ -1,2 +1,2 @@
-# 2032
-Arma 3 Mod
+# 2032 Mod
+This mod is undergoing development
