@@ -10,6 +10,6 @@ The mod is currently based on the Exile Mod, but basically overhauled into a 'Da
 This mod is lisenced under https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 # Credits
-Imperial
-Exile Mod Team
+Imperial,
+Exile Mod Team,
 Exile Mod Community
