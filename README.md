@@ -6,6 +6,9 @@ Zombies - Open World - Survival
 # About the mod
 Based off the Exile Mod but overhauled into a zombie surival world. This mod takes place in the overgrown and desolate place of Chernarus, where the infected have taken over. You must survive!
 
+# Official Discord Server
+https://discord.gg/dWx5bRB
+
 # Disclaimer
 We cannot release the mod files/server files due to legal reasons, but you can play the mod on our private servers.
 This github is purely for development reasons.
