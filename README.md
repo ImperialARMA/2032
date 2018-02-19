@@ -11,6 +11,7 @@ This mod is lisenced under https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 # Disclaimer
 All rights reserved to © 2015-2017 Exile Mod
+http://www.exilemod.com/
 
 # Credits
 Imperial,
