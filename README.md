@@ -9,7 +9,10 @@ The mod is currently based on the Exile Mod, but basically overhauled into a 'Da
 # License
 This mod is lisenced under https://creativecommons.org/licenses/by-nc-nd/4.0/
 
+# Disclaimer
+This github is strictly for development use, this is not a public mod. If you remix, transform, or build upon the material, you may not distribute the modified material. All rights reserved to http://www.exilemod.com/.
+
 # Credits
 Imperial,
 Exile Mod Team,
-Exile Mod Community
+Exile Mod Community.
