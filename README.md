@@ -17,6 +17,4 @@ All rights reserved to © 2015-2017 Exile Mod
 http://www.exilemod.com/
 
 # Credits
-Imperial,
-Exile Mod Team,
-Exile Mod Community.
+Imperial - Exile Mod Team - Exile Mod Community
