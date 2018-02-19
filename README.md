@@ -8,6 +8,7 @@ Based off the Exile Mod but overhauled into a zombie surival world. This mod tak
 
 # Disclaimer
 We cannot release the mod files/server files due to legal reasons, but you can play the mod on our private servers.
+This github is purely for development reasons.
 
 # Licence
 This mod is licensed under https://creativecommons.org/licenses/by-nc-nd/4.0/ by Exile Mod Team
