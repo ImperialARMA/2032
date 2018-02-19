@@ -4,12 +4,14 @@
 Zombies - Open World - Survival
 
 # About the mod
-The mod is currently based on the Exile Mod, but basically overhauled into a 'DayZ' mod. We will soon be creating our own mod and a custom map that will be worked on. I'm just one guy as of currently so don't expect it come out soon. But for now it'll be on the Exile Mod because it's a really good mod to work off of.
-
-# License
-This mod is lisenced under https://creativecommons.org/licenses/by-nc-nd/4.0/
+Based off the Exile Mod but overhauled into a zombie surival world. This mod takes place in the overgrown and desolate place of Chernarus, where the infected have taken over. You must survive!
 
 # Disclaimer
+We cannot release the mod files/server files due to legal reasons, but you can play the mod on our private servers.
+
+# Licence
+This mod is licensed under https://creativecommons.org/licenses/by-nc-nd/4.0/ by Exile Mod Team
+
 All rights reserved to © 2015-2017 Exile Mod
 http://www.exilemod.com/
 
